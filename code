@@ -1,0 +1,29 @@
+•••<! DOCTYPE html> == $0 <html lang="en">
+• ‹head>@ </head>
+• ‹body>
+• <header>@</header>
+«script src="/common template/header.js" type="module"></script>
+• <div class="main-body flex flex-col gap-8 lg:gap-2 pt-[112px] md:pt-[144px] lg:pt-[144px] lg:mb-32"> flex
+•<div class="titlebg">@</div>
+<! -- <p> Code by Vishwajeet Singh </p> --<div class="container">
+<div class="flex flex-col items-start gap-[20px] lg:gap-[16px]"> flex <div class="flex md: flex-row justify-center flex-col mt-0 py-0">
+flex
+•<div class="w-full flex flex-col items-start">@</div>
+flex
+</div>
+</div>
+▶ <div id="quality-policy">O</div>
+• ‹div>@</div>
+</div>
+</div>
+‹script sre="app-js"></script>
+‹script src="=/template/footer.js"></script>
+•<div class="flex flex-col justify-between bg-slate-800 text-white lg:flex-row lg:px-20">@</div> flex
+•<div class="border-t border-zinc-400 flex flex-col bg-slate-800 px-20 p-[20px] text-center text-white lg:flex-row justify-between">@</div> flex
+• ‹script>o</script>
+‹script src="https://unpkg.com/@popperjs/core@2.9.1/dist/umd/popper.min.js" charset="utf-8"></script>
+• ‹script type="text/javascript">@</script>
+• <script>@</script>
+‹script src="..Ljs/footer.js"></script>
+</body>
+• swordtune-read-extension>@</wordtune-read-extension>
